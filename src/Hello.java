@@ -11,7 +11,7 @@ public class Hello {
 	
 	private void enterNumbers()
 	{
-		int i, j, y;
+		int i, j, y;asdfasdfasdf
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Enter First Number = ");
 		i = scanner.nextInt();

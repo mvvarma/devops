@@ -11,12 +11,12 @@ public class Hello {
 	
 	private void enterNumbers()
 	{
-		int i, j, y;
-		Scanner scanner = new Scanner(System.in);
-		System.out.print("Enter First Number = ");
-		i = scanner.nextInt();
-		System.out.print("Enter Second Number = ");
-		j = scanner.nextInt();
+		int i = 33, j = 22, y;
+		//Scanner scanner = new Scanner(System.in);
+		//System.out.print("Enter First Number = ");
+		//i = scanner.nextInt();
+		//System.out.print("Enter Second Number = ");
+		//j = scanner.nextInt();
 		y = addNumbers(i,j);
 		y = subtractNumbers(i,j);
 		y = multipleNumbers(i,j);
